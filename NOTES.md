@@ -7,3 +7,4 @@ Espacio para notas sueltas del repositorio de pruebas.
 - Recopilar recursos gratuitos en español específicamente.
 - Sección de "primeros proyectos" con ideas concretas para practicar.
 - Enlazar comunidades de Discord/Telegram en español sobre programación e IA.
+- Revisar de vez en cuando si hay enlaces rotos en la lista de recursos.
